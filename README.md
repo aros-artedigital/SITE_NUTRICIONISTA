@@ -1,4 +1,4 @@
-# 🥗 Rafael Souza — Nutricionista Clínico
+# 🥗 Rafael Souza - Nutricionista Clínico
 
 > **Landing page profissional para atendimento nutricional humanizado, focado em saúde, reeducação alimentar e performance.**
 
